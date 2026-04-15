@@ -1,3 +1,5 @@
+#import matplotlib using command: pip3 install matplotlib
+
 import matplotlib.pyplot as plt
 
 def draw_pie_chart(category_data, month):
