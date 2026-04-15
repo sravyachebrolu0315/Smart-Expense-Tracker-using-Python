@@ -1,4 +1,4 @@
-#import matplotlib using command: pip3 install matplotlib
+#import matplotlib and pandas using command: pip3 install matplotlib pandas
 
 import matplotlib.pyplot as plt
 
