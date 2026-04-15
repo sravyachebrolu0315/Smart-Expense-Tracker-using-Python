@@ -1,5 +1,5 @@
 # Smart-Expense-Tracker-using-Python
-<h1>Problem Statement: Smart Expense Tracker with Insights</h1>
+<h2>Problem Statement: Smart Expense Tracker with Insights</h2>
 </hr>
 <p>Many individuals struggle to track daily expenses and understand spending patterns. Build a Python application that
 allows users to log, categorize, and analyze their expenses.</p>
